@@ -147,10 +147,4 @@ python .\files\eval_parse_query.py
 
 Метрика: **Parsing Accuracy** — доля запросов, где извлечённые фильтры совпали с эталоном.
 
-## Команда
 
-Учебный проект (практикум / курсовая работа). Авторы: Artemyev, Fomin, Luzin, Goncharov, Kuchina, Rodionov, Buyankina, Pelina, Chukarova, Brekhov.
-
-## Лицензия
-
-Код распространяется «как есть» в учебных целях. При публикации форка укажите авторов и не включайте реальные API-ключи.
